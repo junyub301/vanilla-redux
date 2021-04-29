@@ -27,6 +27,8 @@ yarn add redux
 ## 데이터 흐름
 ![](https://ko.redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif)
 
+[출처] https://ko.redux.js.org/tutorials/essentials/part-1-overview-concepts/
+
 ## 예제
 ```javascript
 import {createStore} from "redux";
