@@ -2,8 +2,12 @@
   React Redux 공부 전 Vanilla Redux구조 및 개념 공부
   
 ## 설치
-```
+```shell
+# npm 
 npm install redux
+
+# yarn
+yarn add redux
 ```
 
 ## Redux란?
