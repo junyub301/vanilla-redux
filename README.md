@@ -1,4 +1,4 @@
-# 프로젝트 목적(Vanilla Redux)
+## 프로젝트 목적(Vanilla Redux)
   React Redux 공부 전 Vanilla Redux구조 및 개념 공부
   
 ## 설치
