@@ -17,7 +17,7 @@ npm install redux
 ## Example
 reducer(state,action) : reducer는 함수여야한다. reducer만이 state를 수정할 수 있다.
 
-```
+```javascript
 import {createStore} from "redux"
 
 const reducer = (state, action) => {
