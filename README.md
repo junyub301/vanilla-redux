@@ -14,7 +14,7 @@ npm install redux
   - state   : application에서 바뀌는 data
   - action  : reducer와 커뮤니케이션 할수 있는 방법 ex) store.dispatch({type:"ADD"})
 
-## Example
+## 예제
 reducer(state,action) : reducer는 함수여야한다. reducer만이 state를 수정할 수 있다.
 
 ```javascript
