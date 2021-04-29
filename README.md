@@ -1,12 +1,12 @@
-# Introduction(Vanilla Redux)
+# 프로젝트 목적(Vanilla Redux)
   React Redux 공부 전 Vanilla Redux구조 및 개념 공부
   
-## intallation
+## 설치
 ```
 npm install redux
 ```
 
-## Redux?
+## Redux란?
   Javascript application들의 state(상태)를 관리하는 방법
   
 ## 기본 개념
