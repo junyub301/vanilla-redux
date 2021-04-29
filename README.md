@@ -20,6 +20,9 @@ npm install redux
   - dispatch  : 액션을 발생시기는 스토어 내장함수, action을 파라미터로 전달한다.
   - subscribe : store에 변화가 있을 때 호출되는 스토어 내장 함수, 함수를 파라미터로 전달한다.
 
+## 데이터 흐름
+![](https://ko.redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif)
+
 ## 예제
 ```javascript
 import {createStore} from "redux";
